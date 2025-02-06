@@ -20,7 +20,7 @@ export const Projects = () => {
       title: "Restaurant website",
       description: "Build with React.JS & MUI",
       imgUrl: projImg1,
-      liveLink: "https://react-mui-website-git-main-raomateen12s-projects.vercel.app/",
+      liveLink: "https://resturant-website-reactjs-mui-sigma.vercel.app/",
       githubLink: "https://github.com/raomateen12/React_MUi_Website"
     },
     {
