@@ -45,11 +45,11 @@ export const Projects = () => {
       githubLink: "https://github.com/raomateen12/Project--3"
     },
     {
-      title: "Netflix Clone",
-      description: "Build with HTML and CSS",
+      title: "Logistics Solution",
+      description: "Build with React +Tailwind CSS",
       imgUrl: projImg5,
-      liveLink: "https://netflix-111.vercel.app/",
-      githubLink: "https://github.com/raomateen12/netflix"
+      liveLink: "http://localhost:5173/",
+   
     },
     {
       title: "Food Website",
